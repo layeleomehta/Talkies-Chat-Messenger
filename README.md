@@ -1,5 +1,5 @@
 ## Project Description
-This project was created with Rizwan Khan's tutorial on YouTube, using React and Redux on the frontend leveraging Firebase's Cloud Firestore on the backend. 
+This project was created with Rizwan Khan's tutorial on YouTube, using React and Redux on the frontend leveraging Firebase's Cloud Firestore on the backend. The app allows users to log-in and sign-up. Logged-in users have access to a private route in which they can access their chats. 
 
 Below is a sample conversation between two users from the perspective of the logged-in user (Gandhi) and another user (Shahrukh Khan).
 
