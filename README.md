@@ -1,6 +1,9 @@
 ## Project Description
+This project was created with Rizwan Khan's tutorial on YouTube, using React and Redux on the frontend leveraging Firebase's Cloud Firestore on the backend. 
 
+Below is a sample conversation between two users from the perspective of the logged-in user (Gandhi) and another user (Shahrukh Khan).
 
+![Sample Chat](https://user-images.githubusercontent.com/32559821/133009536-05a1ae76-5b44-4db8-a64c-ba10c7a44ab4.PNG)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
